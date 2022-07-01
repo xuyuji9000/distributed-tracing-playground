@@ -8,3 +8,7 @@ I'm mostly using
 - Azure Service Bus 
 
 as the infrastructure to practice distributed tracing at the moment.
+
+# Learnings
+
+- [send-message-across-service-bus](./send-message-across-service-bus/Readme.md)
