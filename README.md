@@ -11,4 +11,6 @@ as the infrastructure to practice distributed tracing at the moment.
 
 # Learnings
 
-- [send-message-across-service-bus](./send-message-across-service-bus/Readme.md)
+- [1-Prepare-Jaeger](./1-Prepare-Jaeger/Readme.md)
+
+- [2-send-message-across-service-bus](./2-send-message-across-service-bus/Readme.md)
