@@ -4,7 +4,7 @@ This folder contains learning about sending message across service bus.
 
 - [receiver](receiver/Readme.md)
 
-- [sender](sender/Readme.md)
+- [distributed-tracing-sender](https://github.com/xuyuji9000/distributed-tracing-sender)
 
 # Conclusion 
 
