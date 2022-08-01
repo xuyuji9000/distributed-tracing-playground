@@ -1,10 +1,12 @@
 This folder contains learning about sending message across service bus.
 
-# Services
+# Steps
 
-- [distributed-tracing-receiver](https://github.com/xuyuji9000/distributed-tracing-receiver)
+1. [distributed-tracing-receiver](https://github.com/xuyuji9000/distributed-tracing-receiver)
 
-- [distributed-tracing-sender](https://github.com/xuyuji9000/distributed-tracing-sender)
+2. [distributed-tracing-sender](https://github.com/xuyuji9000/distributed-tracing-sender)
+
+3. [prepare-ingress](./3-prepare-ingress.md)
 
 # Conclusion 
 
