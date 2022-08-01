@@ -2,6 +2,22 @@
 
 This file documents the learning about adding ingress, so sender service sending out message can be triggered from public Internet.
 
+# Commands
+
+- Check target context, 
+  before executing command
+
+  ``` shell
+  kubectl config get-contexts
+  ```
+
+- Create ingress
+
+  ``` shell
+  kubectl apply -f ./distributed-tracing-ingress.yaml
+  ```
+
+
 # Reference
 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx)
